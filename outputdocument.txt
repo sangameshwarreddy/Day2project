@@ -1,0 +1,11 @@
+Enter lower bound of the interval:
+5
+
+Enter upper bound of the interval:
+15
+
+Prime numbers between 5 and 15 are:
+5
+7
+11
+13
