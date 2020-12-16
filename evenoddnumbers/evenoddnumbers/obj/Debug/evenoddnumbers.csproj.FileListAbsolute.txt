@@ -1,0 +1,7 @@
+F:\Git\Day2project\evenoddnumbers\evenoddnumbers\bin\Debug\evenoddnumbers.exe.config
+F:\Git\Day2project\evenoddnumbers\evenoddnumbers\bin\Debug\evenoddnumbers.exe
+F:\Git\Day2project\evenoddnumbers\evenoddnumbers\bin\Debug\evenoddnumbers.pdb
+F:\Git\Day2project\evenoddnumbers\evenoddnumbers\obj\Debug\evenoddnumbers.csprojAssemblyReference.cache
+F:\Git\Day2project\evenoddnumbers\evenoddnumbers\obj\Debug\evenoddnumbers.csproj.CoreCompileInputs.cache
+F:\Git\Day2project\evenoddnumbers\evenoddnumbers\obj\Debug\evenoddnumbers.exe
+F:\Git\Day2project\evenoddnumbers\evenoddnumbers\obj\Debug\evenoddnumbers.pdb
