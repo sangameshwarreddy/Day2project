@@ -52,7 +52,7 @@ namespace evenoddnumbers
                 }
                 if (flag == 1)
                     Console.WriteLine(i);
-
+		    Console.WriteLine("reventh rao");
 
             }
         }
